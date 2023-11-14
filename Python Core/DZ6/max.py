@@ -23,7 +23,7 @@ if num_amount < 4:
         num = int(input())
         num_list.append(num)
         
-        res = maximux(num_amount, num_list)
-        print(res)
+    res = maximux(num_amount, num_list)
+    print(res)
 else:
     print("ERROR")
