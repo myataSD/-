@@ -14,4 +14,4 @@ print(First3)
 Last3 = DataF.tail(3)
 print(Last3)
 
-DataF.to_csv('output.csv')
+DataF.to_csv(r'D:\output.csv')
